@@ -14,4 +14,4 @@ var typed = new Typed('.multiple', {
   ScrollReveal().reveal('.home-text, .section-title', { origin: 'top'});
   ScrollReveal().reveal('.about-left', { origin: 'left'});
   ScrollReveal().reveal(' .about-right', { origin: 'right'});
-  ScrollReveal().reveal('.home-img, .about-last, .service-item, .portfolio-item', { origin: 'bottom'});
+  ScrollReveal().reveal('.about-last, .service-item, .portfolio-item', { origin: 'bottom'});
